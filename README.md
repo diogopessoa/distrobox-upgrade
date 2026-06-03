@@ -1,7 +1,7 @@
 # Distrobox Container Auto-Upgrade
 Keep your Distrobox containers automatically updated on any Linux system that uses Systemd.
 
-![Descrição da imagem](https://raw.githubusercontent.com/diogopessoa/distrobox-container-auto-upgrade/main/run-distrobox-container-auto-upgrade-1.png)
+![Descrição da imagem](https://raw.githubusercontent.com/diogopessoa/distrobox-upgrade/main/run-distrobox-container-auto-upgrade-1.png)
 
 ## Features
  1. 🟢 **Automatic updates** for all Distrobox containers
@@ -25,7 +25,7 @@ The script will automatically create files in `~/.config/systemd/user/` and conf
 ### 1. Download the script:
    ```bash
    cd ~/Downloads
-   wget https://raw.githubusercontent.com/diogopessoa/distrobox-container-auto-upgrade/main/distrobox-upgrade.sh
+   wget https://raw.githubusercontent.com/diogopessoa/distrobox-upgrade/main/distrobox-upgrade.sh
    ```
 
 ### 2. Make the script executable:
